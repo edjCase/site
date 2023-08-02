@@ -4,7 +4,7 @@ title = 'EdjCase'
 theme = 'nightfall'
 
 [params]
-author = "Ethan Celletti"
+author = "EdjCase"
 user = "egcelletti"
 hostname = "edjcase.com"
 footerHtml = '© 2023'

@@ -1,0 +1,1 @@
+hugo --minify --environment PRODUCTION --baseUrl https://edjcase.com/
