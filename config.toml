@@ -1,0 +1,38 @@
+baseURL = "https://edjcase.com/"
+languageCode = 'en-us'
+title = 'EdjCase'
+theme = 'nightfall'
+
+[params]
+author = "Ethan Celletti"
+user = "egcelletti"
+hostname = "edjcase.com"
+footerHtml = '© 2023'
+
+readingTime = true # Show reading time on post page
+published = true   # Show published data on post page
+
+[[params.social]]
+key = 0
+name = "github"
+url = "https://github.com/edjcase"
+
+[[params.social]]
+key = 1
+name = "twitter"
+url = "https://twitter.com/edjcaseLabs"
+
+[[params.social]]
+key = 2
+name = "email"
+url = "mailto:egcelletti@edjcase.com"
+
+# [menu]
+# [[menu.header]]
+# name = "blog"
+# weight = 0
+# url = "blog"
+# [[menu.header]]
+# name = "about"
+# weight = 1
+# url = "about"
