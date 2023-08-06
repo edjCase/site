@@ -1,0 +1,22 @@
+{
+    "canisters": {
+        "frontend": {
+            "dependencies": [],
+            "frontend": {
+                "entrypoint": "public/index.html"
+            },
+            "source": [
+                "public"
+            ],
+            "type": "assets"
+        }
+    },
+    "defaults": {
+        "build": {
+            "args": "",
+            "packtool": "mops sources"
+        }
+    },
+    "output_env_file": ".env",
+    "version": 1
+}
